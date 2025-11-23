@@ -1,0 +1,81 @@
+Approach:
+The is designed to securely store, process, and analyze habit data for each user. It manages user authentication, habit records, progress logs, and generates analytics. The system uses a relational or document database for persistent storage of user accounts and habit logs.
+Result:
+After deployment, users successfully tracked their daily habits with ease. The application generated progress reports and visualizations, helping users identify trends, maintain streaks, and stay motivated. The results showed improvements in regularity and goal attainment among users.
+Output:
+Daily Habit Tracker Menu:
+1. Add Habit
+2. View Habits
+3. Exit
+Enter your choice (1/2/3): 2
+
+Daily Habit Tracker:
+1. Date: 2025-11-23, Habit: daily gym, Status: Completed
+
+Daily Habit Tracker Menu:
+1. Add Habit
+2. View Habits
+3. Exit
+Enter your choice (1/2/3): 2
+
+Daily Habit Tracker:
+1. Date: 2025-11-23, Habit: daily gym, Status: Completed
+
+Daily Habit Tracker Menu:
+1. Add Habit
+2. View Habits
+3. Exit
+Enter your choice (1/2/3): 1
+Enter date (YYYY-MM-DD): 2025-11-23
+Enter habit description: wake up early
+Did you complete the habit? (yes/no): no
+Habit added successfully.
+
+Daily Habit Tracker Menu:
+1. Add Habit
+2. View Habits
+3. Exit
+Enter your choice (1/2/3): 2
+
+Daily Habit Tracker:
+1. Date: 2025-11-23, Habit: daily gym, Status: Completed
+2. Date: 2025-11-23, Habit: wake up early, Status: Not Completed
+
+Daily Habit Tracker Menu:
+1. Add Habit
+2. View Habits
+3. Exit
+Invalid choice. Please enter 1, 2, or 3.
+
+Daily Habit Tracker Menu:
+1. Add Habit
+2. View Habits
+3. Exit
+Enter your choice (1/2/3): 1
+Enter date (YYYY-MM-DD): 2025-11-23
+Enter habit description: gym
+Did you complete the habit? (yes/no): yes
+Habit added successfully.
+
+Daily Habit Tracker Menu:
+1. Add Habit
+2. View Habits
+3. Exit
+Enter your choice (1/2/3): 2
+
+Daily Habit Tracker:
+1. Date: 2025-11-23, Habit: daily gym, Status: Completed
+2. Date: 2025-11-23, Habit: wake up early, Status: Not Completed
+3. Date: 2025-11-23, Habit: gym, Status: Completed
+
+
+
+
+
+
+
+
+
+
+
+
